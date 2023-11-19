@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    text-align: center;
+
+}
+
+header{
+    margin-top: 141px;
+    margin-left: 1215px;
+    display: flex;
+}
+.tittle{
+    font-size: 80px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.texto{
+    font-size: 48px;
+    font-weight: 400;
+    text-align: center;
+}
