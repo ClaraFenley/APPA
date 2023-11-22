@@ -1,12 +1,16 @@
+  @import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+
 body{
     background-size: cover;
     text-align: center;
+    position: fixed; 
 
 }
 
 header{
     margin-top: 141px;
     margin-left: 1215px;
+    font-family:"Assistant&display" ;
     display: flex;
 }
 .tittle{
